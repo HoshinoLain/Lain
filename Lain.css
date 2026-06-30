@@ -11,3 +11,8 @@
 .footer {
   background-color: #fff;
 }
+
+.header {
+  background-color: #fff;
+  display: block;
+}
